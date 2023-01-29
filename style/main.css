@@ -1,0 +1,14 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  color: #f16f2b;
+  font-size: 10rem;
+  flex-wrap: wrap;
+  word-wrap: break-word;
+  /* background-image: url("../images/riot.png"); */
+  /* background-repeat: no-repeat; */
+}
